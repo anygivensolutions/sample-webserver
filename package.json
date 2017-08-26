@@ -1,0 +1,19 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/anygivensolutions/sample-webserver.git"
+  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dom",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "hbs": "^4.0.1"
+  }
+}
